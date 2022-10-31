@@ -4,10 +4,24 @@
 
 package dataprojectes;
 import dataprojectes.SNode;
+//class node
+public class SNode <T>
+{
+    T data;
+    SNode next;  
+
+    public SNode(T data, SNode next) {
+        this.data = data;
+        this.next = next;
+    }
+
+    public SNode() {
+    }
+    
+}
 
 
-
-
+//class Linkedlist 
 public class SLinkedList<T> {
 
     private SNode head;
