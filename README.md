@@ -48,7 +48,7 @@ React · TypeScript · QA Testing · Cypress · Gherkin
 <a href="https://jasmine.github.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="Jasmine" width="40" height="40"/></a>
 <a href="https://mochajs.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="Mocha" width="40" height="40"/></a>
 
-<!-- Other Tools -->
+<!-- Tools -->
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
@@ -58,6 +58,12 @@ React · TypeScript · QA Testing · Cypress · Gherkin
 
 ## 📊 GitHub Stats
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatimarajab12&show_icons=true&locale=en&layout=compact" alt="fatimarajab12 Top Languages" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatimarajab12&show_icons=true&locale=en" alt="fatimarajab12 GitHub Stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatimarajab12&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatimarajab12&show_icons=true&locale=en" alt="GitHub Stats" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=fatimarajab12&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
+---
+
+## ⚡ Fun Fact
+I think I’m funny 😄
