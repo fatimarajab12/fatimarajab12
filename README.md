@@ -82,5 +82,4 @@ Cypress: <img src="https://img.shields.io/badge/Cypress-75%25-red?style=for-the-
 
 ---
 
-## ⚡ Fun Fact
-I think I’m funny 😄
+## College? No thanks 💀… give me code, coffee, and bugs
