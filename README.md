@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatima</h1>
-<h3 align="center">QA Engineer Intern & Aspiring Full-Stack Developer 👩‍💻</h3>
+<h3 align="center">QA Engineer Intern  👩‍💻</h3>
 <p align="center">
 Passionate about software quality, testing, and building reliable applications. Hands-on experience in manual testing, test automation, and bug reporting. Currently working on a full-stack graduation project with <b>frontend (React)</b> and <b>backend (Node.js & Express)</b>.
 </p>
@@ -50,15 +50,6 @@ React · TypeScript · QA Testing · Cypress · Gherkin
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50" height="50" />
 </p>
 
-<marquee behavior="scroll" direction="left" scrollamount="7">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" />
-</marquee>
 
 ---
 
