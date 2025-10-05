@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  🌼 Focused on testing, automation, and building high-quality user experiences 🌼
+   Focused on testing, automation, and building high-quality user experiences 
 </p>
 
 <!-- Optional Soft Background Animation -->
