@@ -8,10 +8,7 @@
 </p>
 
 <!-- Optional Soft Background Animation -->
-<p align="center">
-  <img src="https://tenor.com/view/js-javascript-polski-jspolski-gif-20850545" width="450" alt="Soft animated bubbles"/>
-</p>
-
+<div class="tenor-gif-embed" data-postid="2554775961674464073" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/monitors-typing-screen-laptops-new-computer-gif-2554775961674464073">Monitors Typing Sticker</a>from <a href="https://tenor.com/search/monitors-stickers">Monitors Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 ---
 
 ##  About Me  
