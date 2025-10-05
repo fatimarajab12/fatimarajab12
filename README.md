@@ -14,7 +14,7 @@
 
 ---
 
-## 💫 About Me  
+##  About Me  
 I'm a <b>QA Engineer Intern</b> passionate about software quality and automation testing.  
 Currently working on a **Full-Stack Graduation Project** using **React, Node.js, and Express**.  
 Always exploring new tools for **test automation** and **frontend/backend integration**.  
@@ -22,7 +22,7 @@ Code + Coffee + Bugs = My favorite combo 💀
 
 ---
 
-## 🌸 Currently Learning  
+##  Currently Learning  
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-98FB98?style=for-the-badge&logo=node.js&logoColor=black" />
   <img src="https://img.shields.io/badge/Express-FFE4E1?style=for-the-badge&logo=express&logoColor=black" />
