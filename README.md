@@ -1,7 +1,9 @@
 <!-- 🌸 ANIMATED HEADER -->
-<!-- 🌸 Animated Typing Header -->
+<!-- 🌸 SOFT ANIMATED HEADER -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=250&pause=800&color=FF69B4&center=true&vCenter=true&width=700&lines=F+a+t+i+m+a+R+a+j+a+b;QA+Engineer+Intern+👩‍💻;Frontend+Developer+💻;Quality+%26+Automation+Testing+Lover+🌸" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com/demo/">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Fatima+Rajab!;QA+Engineer+%7C+Frontend+React+%7C+Automation;Passionate+about+testing+and+code" alt="Typing SVG"/>
+  </a>
 </h1>
 
 
