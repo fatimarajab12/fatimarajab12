@@ -1,19 +1,25 @@
 <!-- 🌸 ANIMATED HEADER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&color=FF69B4&width=600&lines=Hi%F0%9F%91%8B+I'm+Fatima+Rajab!;QA+Engineer+Intern+%F0%9F%91%A4;Passionate+About+Testing+%7C+Automation+%7C+React+%7C+Node.js)](https://git.io/typing-svg)
-
+<!-- 🌸 ANIMATED HEADER -->
+<p align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=4000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=650&lines=Hi%F0%9F%91%8B+I'm+Fatima+Rajab!;QA+Engineer+Intern+%F0%9F%91%A4;Passionate+About+Testing+%7C+Automation+%7C+React+%7C+Node.js;Coffee+%26+Code+Make+Me+Happy+%E2%98%95%F0%9F%92%BB)](https://git.io/typing-svg)
+</p>
 
 <p align="center">
   🌼 Focused on testing, automation, and building high-quality user experiences 🌼
 </p>
 
+<!-- Optional Soft Background Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="450" alt="Soft animated bubbles"/>
+</p>
 
 ---
 
 ## 💫 About Me  
-🎓 I'm a <b>QA Engineer Intern</b> passionate about software quality and automation testing.  
-💻 Currently working on a **Full-Stack Graduation Project** using **React, Node.js, and Express**.  
-🌱 Always exploring new tools for **test automation** and **frontend/backend integration**.  
-☕ Code + Coffee + Bugs = My favorite combo 💀  
+I'm a <b>QA Engineer Intern</b> passionate about software quality and automation testing.  
+Currently working on a **Full-Stack Graduation Project** using **React, Node.js, and Express**.  
+Always exploring new tools for **test automation** and **frontend/backend integration**.  
+Code + Coffee + Bugs = My favorite combo 💀  
 
 ---
 
@@ -28,14 +34,14 @@
 
 ---
 
-## ✨ Languages & Tools  
+##  Languages & Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,cypress,git,figma,vscode&theme=light" />
 </p>
 
 ---
 
-## 🌈 My Tech World  
+##  My Tech World  
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
@@ -66,7 +72,6 @@
 
 ---
 
-## 🧁 Fun Corner  
 <p align="center">
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="280" alt="Cute coding gif" />
 </p>
