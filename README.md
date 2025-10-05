@@ -1,8 +1,8 @@
 <!-- 🌸 ANIMATED HEADER -->
-<!-- 🌸 ANIMATED HEADER -->
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=4000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=650&lines=Hi%F0%9F%91%8B+I'm+Fatima+Rajab!;QA+Engineer+Intern+%F0%9F%91%A4;Passionate+About+Testing+%7C+Automation+%7C+React+%7C+Node.js;Coffee+%26+Code+Make+Me+Happy+%E2%98%95%F0%9F%92%BB)](https://git.io/typing-svg)
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" alt="Coding Fun"/>
 </p>
+
 
 <p align="center">
   🌼 Focused on testing, automation, and building high-quality user experiences 🌼
