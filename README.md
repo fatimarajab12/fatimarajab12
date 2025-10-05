@@ -1,7 +1,6 @@
 <!-- 🌸 ANIMATED HEADER -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=5001&pause=1000&color=F739EA&width=435&lines=Hi%F0%9F%91%8BI'm+Fatima+Rajab+" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&color=FF69B4&width=600&lines=Hi%F0%9F%91%8B+I'm+Fatima+Rajab!;QA+Engineer+Intern+%F0%9F%91%A4;Passionate+About+Testing+%7C+Automation+%7C+React+%7C+Node.js)](https://git.io/typing-svg)
+
 
 <p align="center">
   🌼 Focused on testing, automation, and building high-quality user experiences 🌼
