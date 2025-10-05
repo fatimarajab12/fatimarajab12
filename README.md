@@ -9,6 +9,10 @@
   🌼 Focused on testing, automation, and building high-quality user experiences 🌼
 </p>
 
+<p align="center">
+  🌼 Focused on testing, automation, and building high-quality user experiences 🌼
+</p>
+
 
 ---
 
