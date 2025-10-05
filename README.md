@@ -1,7 +1,10 @@
 <!-- 🌸 ANIMATED HEADER -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=800&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Fatima+Rajab!;QA+Engineer+Intern+👩‍💻;Frontend+%7C+Automation+%7C+Testing;Passionate+About+Software+Quality+Assurance" alt="Typing SVG" />
+</h1>
+
 <p align="center">
-  <img src="https://link-to-pastel-background.png" width="100%"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=28&pause=800&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Fatima+Rajab!;QA+Engineer+%7C+Frontend+React+%7C+Automation" alt="Typing SVG" style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%)"/>
+  🌼 Focused on testing, automation, and creating high-quality user experiences 🌼
 </p>
 
 
