@@ -9,7 +9,7 @@
 
 <!-- Optional Soft Background Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="450" alt="Soft animated bubbles"/>
+  <img src="https://tenor.com/view/js-javascript-polski-jspolski-gif-20850545" width="450" alt="Soft animated bubbles"/>
 </p>
 
 ---
