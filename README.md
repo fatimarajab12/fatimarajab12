@@ -4,9 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=250&pause=800&color=FF69B4&center=true&vCenter=true&width=700&lines=F+a+t+i+m+a+R+a+j+a+b;QA+Engineer+Intern+👩‍💻;Frontend+Developer+💻;Quality+%26+Automation+Testing+Lover+🌸" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" width="100%" />
-</p>
 
 
 ---
