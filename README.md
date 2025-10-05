@@ -1,12 +1,6 @@
 <!-- 🌸 ANIMATED HEADER -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=800&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Fatima+Rajab!;QA+Engineer+Intern+👩‍💻;Frontend+%7C+Automation+%7C+Testing;Passionate+About+Software+Quality+Assurance" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  🌼 Focused on testing, automation, and creating high-quality user experiences 🌼
-</p>
-
+## 👋 Hi, I'm Fatima Rajab!
+<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Fatima+Rajab!;QA+Engineer+Intern+👩‍💻;Passionate+About+Software+Quality+Assurance" alt="Typing SVG" /> </h1><p align="center"> 🌼 Focused on testing, automation, and creating high-quality user experiences 🌼 </p>
 
 ---
 
