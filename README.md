@@ -44,18 +44,6 @@
 
 ---
 
-## ⚡ GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatimarajab12&show_icons=true&theme=swift&title_color=ff69b4&icon_color=ffb6c1&text_color=555" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=fatimarajab12&theme=swift&ring=FF69B4&fire=FFB6C1&currStreakLabel=FF69B4" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimarajab12&layout=compact&title_color=ff69b4&text_color=555&theme=swift" width="45%" />
-</p>
-
----
-
 ## 💻 Skill Progress  
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-90%25-FFD700?style=for-the-badge" />
