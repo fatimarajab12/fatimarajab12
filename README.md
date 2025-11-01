@@ -43,16 +43,8 @@ Code + Coffee + Bugs = My favorite combo 💀
 
 ---
 
-## 💻 Skill Progress  
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-90%25-FFD700?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-85%25-87CEFA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Node.js-80%25-98FB98?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TypeScript-70%25-B0E0E6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cypress-75%25-FFB6C1?style=for-the-badge" />
-</p>
 
----
+
 
 ## 💬 Reach Me  
 📧 **fatimarajab678@gmail.com**  
