@@ -96,8 +96,4 @@ Designed a multilingual RAG system for Arabic/English question answering using s
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="280" alt="Cute coding gif" />
 </p>
 
-<h4 align="center"> 💀 — give me <b>code</b>, <b>coffee</b>, and <b>bugs</b> 🐞</h4>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=FFB6C1&height=80&section=footer"/>
-</p>
